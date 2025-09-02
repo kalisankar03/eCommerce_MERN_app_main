@@ -40,13 +40,6 @@ An E commerce platform made using React JS, Redux, MaterialUI, Router, ExpressJS
   
 ---
 
-Payment: 
-
-![](/client/src/assets/stripe.png)
-
-
----
-
 ## Developed With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
