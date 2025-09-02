@@ -1,7 +1,4 @@
  # eCommerce_MERN_app :shopping_cart:
-![Logo](/client/src/Logo.png)
-
-
 
 ### Version 1 :
 * The data is stored using MongoDB
@@ -52,21 +49,6 @@ Landing Page:
 
 ![](/client/src/assets/home.png)
 ---
-Product Preview:
-
-![](/client/src/assets/product.png)
-![](/client/src/assets/explore.png)
-![](/client/src/assets/products.png)
-![](/client/src/assets/footer.png)
----
-Sign-in && Sign-Up Page:
-
-![](/client/src/assets/login.png)
-![](/client/src/assets/register.png)
-
-Cart Section:
-
-![](/client/src/assets/cart.png)
 
 Payment: 
 
