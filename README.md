@@ -37,17 +37,7 @@ An E commerce platform made using React JS, Redux, MaterialUI, Router, ExpressJS
 * Order Storage: Completed orders are meticulously stored in Firestore, guaranteeing the preservation of order details for future reference and fulfillment.
 
 * Seamless Payment Flow: The Stripe integration ensures a seamless payment flow within the application, allowing users to complete transactions swiftly and securely, enhancing the overall shopping experience.
----
----
-### Admin panel  [Here](/admin/README.md)
----
----
-**SCREENSHOTS:**
----
-
-Landing Page:
-
-![](/client/src/assets/home.png)
+  
 ---
 
 Payment: 
